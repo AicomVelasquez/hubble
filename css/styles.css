@@ -1,0 +1,110 @@
+.background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+.illustration {
+  position: absolute;
+  margin: 3rem auto auto 3rem;
+}
+.all-content {
+  position: relative;
+  display: grid;
+  left: 52rem;
+  top: 5.4rem;
+
+}
+.icon {
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  top: 4px;
+  right: 2px;
+}
+.title {
+  font-size: 2.5rem;
+  text-align: left;
+  width: 23%;
+  line-height: 55px;
+  margin-bottom: 1.5rem;
+}
+.paragraph {
+  width: 26.5%;
+  line-height: 27px;
+}
+.register {
+  margin-top: 1.5rem;
+  margin-right: 102rem;
+  border-radius: 3rem;
+  padding: 20px;
+  width: 13rem;
+  font-size: 18px;
+  color: hsl(257, 40%, 49%);
+}
+.register:hover {
+  background-color:  hsl(300, 69%, 71%);
+  color: white;
+}
+.top-header {
+  margin: 3.5rem auto auto 3.5rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+}
+.facebook {
+  position: absolute;
+  margin-top: 13rem;
+  width: 45px;
+  left: 76rem;
+}
+.facebook:hover {
+  background-color:  hsl(300, 69%, 71%);
+}
+.twitter {
+  position: absolute;
+  width: 45px;
+  margin-top: 211px;
+  left: 1276px;
+}
+.instagram {
+  position: absolute;
+  margin-top: 13.8rem;
+  width: 25px;
+  left: 84.3rem;
+}
+.attribution {
+  text-align: center;
+  margin-top: 18rem;
+  margin-left: 25rem;
+  width: 100%;
+  position: relative;
+  font-size: 12px;
+}
+.name {
+  color: white;
+}
+.circle1 {
+  position: absolute;
+  margin-top: 12.8rem;
+  left: 75.7rem;
+  width: 3.5rem;
+}
+.circle2 {
+  position: absolute;
+  margin-top: 12.8rem;
+  left: 79.5rem;
+  width: 3.5rem;
+}
+.circle3 {
+  position: absolute;
+  margin-top: 12.8rem;
+  left: 83.3rem;
+  width: 3.5rem;
+}
+body {
+  background-color: hsl(257, 40%, 49%);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 42rem;
+}
